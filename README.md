@@ -1,27 +1,30 @@
-# TODOTest
+# Introducción a Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+## Introducción
 
-## Development server
+Angular es un framework opensource desarrollado por Google para facilitar la creación y programación de aplicaciones web de una sola página, las webs SPA (Single Page Application).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Comandos basicos
 
-## Code scaffolding
+- ng serve -> Usado para ejecutar el proyecto, por defecto en `http://localhost:4200/`
+- ng generate || ng g -> Usado para generar componentes, servicios, directivas, pipes, etc.
+- ng build -> Usado para generar el build de la aplicación.
+- ng test -> Usado correr las pruebas unitarias.
+- ng e2e -> Usado correr las pruebas e2e (toca configurar el ambiente).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Conocimiento basico de Javascript y typescript
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Variables y constantes.
+  - privacidad.
+  - estructura de la declaración
+- Template string.
+- Funciones.
+- Objetos literales.
+- Arreglos.
+  - map.
+  - filter.
+  - reduce.
+  - every.
+  - some.
+- Destructuración.
+- Operador ternario.
