@@ -28,3 +28,14 @@ Angular es un framework opensource desarrollado por Google para facilitar la cre
   - some.
 - Destructuración.
 - Operador ternario.
+
+## Introduccion a la estructura de un proyecto Angular
+
+- Estructura inicial de las carpetas.
+- componentes.
+  - Decoradores
+- modulos.
+  - Explicación de los componentes de los modulos.
+  - Explicación de las rutas.
+    - normales
+    - lazyloading
